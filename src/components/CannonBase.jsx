@@ -22,6 +22,10 @@ const CannonBase = (props) => {
             x: 20,
             y: negativeHeight,
         },
+        endingControlPoint: {
+            x:60,
+            y: negativeHeight,
+        },
         endingAxis: {
             x:baseWidth,
             y:0,
